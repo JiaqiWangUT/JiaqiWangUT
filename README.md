@@ -5,5 +5,5 @@
 -->
 - 🔭 I’m Jiaqi Wang, currently studying at University of Toronto for master degree.
 - 🌱 I graduated from Beijing University Of Posts and Telecommunications and previously working at DiDi Global as an MLE intern.
-- 👀 My research mainly focuses on computer vision and robust learning, specifically adversarial attack and defense in computer vision and LLMs.
+- 👀 My research mainly focuses on AI Alignment and robust learning, specifically adversarial attack and defense in LLMs.
 - 📫 You can reach me by email (jqjqjq.wang@mail.utoronto.ca).
